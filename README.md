@@ -1,0 +1,1 @@
+Os três scripts referem-se às aplicações realizadas durante o minicurso. As bases de dados são para auxílio e treinamento, os caminhos de leitura das bases de dados devem ser alterados conforme necessidade.
